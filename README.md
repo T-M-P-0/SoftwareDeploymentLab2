@@ -1,6 +1,5 @@
 # SoftwareDeploymentLab2
-    Die NodeJS applikation
-    eine README.md mit folgenden Informationen:
+
 ## Links zu den Azure Web Apps (dev & production)
  
 Development: https://lab2tompirichproduction.azurewebsites.net
